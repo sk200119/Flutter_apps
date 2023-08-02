@@ -1,2 +1,2 @@
-# Flutter_apps
+# E-commerce application SnD
 Just Practice flutter applications
